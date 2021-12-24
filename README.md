@@ -46,9 +46,8 @@ tensorflow library is used to prepare the model for detection of the pot holes a
 ### Installation
 
 1. download the app from the below given link
-   ```sh
    [apk_file_for_pot_hole_detection_app](https://s3-ap-northeast-1.amazonaws.com/sekilab-students/maeda/kashiyama/mcr111_open.apk)
-   ```
+   
 2. on installing give required permission
 
 3. detect the pot holes by pressing start button and placing camera over the pot holes
@@ -62,7 +61,7 @@ tensorflow library is used to prepare the model for detection of the pot holes a
 * we can use this project to detect the presence of pot holes around our surroundings
 
 
-<img src="detected pot hole images/Screenshot_20211224_185400.jpg" alt="pot hole's detected image" width="400" height="400"/> <img src="detected pot hole images/Screenshot_20211224_185510.jpg" alt="pot hole's detected image" width="400" height="400"/>
+<img src="detected pot hole images/Screenshot_20211224_185400.jpg" alt="pot hole's detected image" width="500" height="600"/>    <img src="detected pot hole images/Screenshot_20211224_185510.jpg" alt="pot hole's detected image" width="500" height="600"/>
 
 <!-- LICENSE -->
 ## License
