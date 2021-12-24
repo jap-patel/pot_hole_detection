@@ -45,7 +45,7 @@ tensorflow library is used to prepare the model for detection of the pot holes a
 
 ### Installation
 
-1. download the app from the below given link
+1. download the app from the given link : 
    [apk_file_for_pot_hole_detection_app](https://s3-ap-northeast-1.amazonaws.com/sekilab-students/maeda/kashiyama/mcr111_open.apk)
    
 2. on installing give required permission
